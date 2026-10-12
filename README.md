@@ -164,10 +164,14 @@ Casos fallidos: **_0_**
 Defectos identificados: **_0_**
 
 ## 7. CONCLUSIONES
-Este proyecto permitió aplicar el proceso de pruebas de software a una aplicación web y digital utilizada para la creación y edición de diseños, desde la identificación de requisitos funcionales hasta el diseño, la ejecución y la documentación de casos de prueba. 
+Este proyecto permitió aplicar el proceso de pruebas de software a una aplicación web y digital utilizada para la creación y edición de diseños, desde la identificación de requisitos funcionales hasta el diseño, la ejecución y la documentación de casos de prueba.
+
 Durante el proceso, reforcé mis habilidades para analizar flujos de usuario, identificar escenarios positivos y negativos, definir resultados esperados y evaluar el comportamiento de una aplicación frente a diferentes condiciones de uso.
+
 A su vez, también comprendí la importancia de validar no solo el desempeño de las funcionalidades principales, sino aspectos como la persistencia de la información, los permisos de acceso y la integridad de los archivos exportados. 
+
 Como mejora futura, ampliaría las pruebas a otros navegadores, dispositivos y condiciones de conectividad, e incorporaría pruebas de accesibilidad y automatización para reducir el esfuerzo de regresión. 
+
 En una entrevista, destacaría mi capacidad para transformar requisitos funcionales en casos de prueba estructurados, documentar resultados y evaluar la calidad de un producto desde la perspectiva del usuario.
 
 
