@@ -103,10 +103,10 @@ Cuando un diseño sea compartido con permisos limitados, el usuario receptor no 
 
 •	Validar páginas
 
-_Diseño de casos de prueba disponibles en Excel._
+_Diseño de casos de prueba disponibles en el PDF._
 
 # 3.3. Construcción
-_Ejecución de pruebas documentadas en Excel._
+_Ejecución de pruebas documentadas en el PDF._
 
 # 3.4. Evaluación
 
